@@ -1,0 +1,16 @@
+{
+"name": "agufabet",
+"theme": "ag ufabet",
+"version": "8.3.4",
+"description": "ag ufabet สมัครเว็บไซต์คาสิโนเว็บตรง ระบบออโต้ ให้เครดิตฟรี",
+"keywords": [
+"ag ufabet",
+"ag ufabet เครดิตฟรี",
+"ag ufabet ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/agufabet",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
